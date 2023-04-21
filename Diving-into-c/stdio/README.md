@@ -1,6 +1,6 @@
 # Learning about the stdio function in c
 
-The getc() function
-The putc() function
-The getchar() function
-The putchar() function
+1. The getc() function
+2. The putc() function
+3. The getchar() function
+4. The putchar() function
