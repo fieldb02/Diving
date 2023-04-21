@@ -1,6 +1,6 @@
 # In this segment we learn about data manipulation in C using: 
-• Arithmetic assignment operators
-• Unary minus operator
-• Increment and decrement operators
-• Relational operators
-• Cast operator
+1. Arithmetic assignment operators
+2. Unary minus operator
+3. Increment and decrement operators
+4. Relational operators
+5. Cast operator
